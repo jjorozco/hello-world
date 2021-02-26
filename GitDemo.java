@@ -13,7 +13,7 @@ public class GitDemo {
     /*****
      * This function should add 'num' to 'previousNumber' and return the sum.
     *****/
-    public double addNumber(double num) {
+    public double addNumber(int num) {
         System.out.print("Add num to previousNumber");
         double sum = previousNumber + num;
         return sum;
