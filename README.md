@@ -1,2 +1,3 @@
 # hello-world
-another one
+CSE 360 Hello World git demo
+Juan Orozco
